@@ -7,7 +7,7 @@ div.inner{
 	border-radius: 15px;
 }
 
-div.outer{
+div.holder{
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
